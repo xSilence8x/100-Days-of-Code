@@ -1,4 +1,8 @@
 def is_leap(year):
+    """
+    This function is testing if a year is leap year.
+    It returns boolean value.
+    """
     if not year % 4 == 0:
         return False
     else:
@@ -11,6 +15,9 @@ def is_leap(year):
 
 
 def days_in_month(year, month):
+  """
+  This function is returning number of days in a month.
+  """
   month_days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
   days = month_days[month - 1]
   leap = is_leap(year)
@@ -24,3 +31,4 @@ year = int(input("Enter a year: "))
 month = int(input("Enter a month: "))
 days = days_in_month(year, month)
 print(days)
+
