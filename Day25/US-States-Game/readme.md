@@ -13,11 +13,12 @@ To run the "US States Game," please follow these steps:
 
 ## Usage
 
-Run the `main.py` script to start the game.
-
-```bash python main.py
-
-A blank map of the United States, represented by the `blank_states_img.gif` image, will be displayed. You will be prompted to guess the names of the US states. If your guess is correct, the program will mark the state's name on the map. Keep guessing until you have identified all the states. At the end of the game, the program will generate a `states_to_learn.csv` file containing the names of the states you missed.
+1. Run the `main.py` script to start the game.
+2. A blank map of the United States, represented by the `blank_states_img.gif` image, will be displayed. 
+3. You will be prompted to guess the names of the US states. 
+4. If your guess is correct, the program will mark the state's name on the map. 
+5. Keep guessing until you have identified all the states. 
+6. At the end of the game, the program will generate a `states_to_learn.csv` file containing the names of the states you missed.
 
 ## Project Files
 
