@@ -36,7 +36,7 @@ The `get_resource_path` function is used to retrieve the absolute path to resour
 
 ## Game Screenshot
 
-<img src="screenshot.png" alt="Game Screenshot" width="400">
+<img src="screenshot.PNG" alt="Game Screenshot" width="400">
 
 
 
