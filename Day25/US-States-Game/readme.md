@@ -31,7 +31,7 @@ The project repository includes the following files:
 
 ## Game Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshot.PNG)
 
 
 ## Dependencies
