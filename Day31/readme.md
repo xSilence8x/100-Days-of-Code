@@ -30,4 +30,5 @@ This script creates a flashcard application using the Tkinter library in Python.
 
 ## Screenshots
 
-
+<img src="screenshot1.PNG" alt="Game Screenshot" width="400">
+<img src="screenshot2.PNG" alt="Game Screenshot" width="400">
